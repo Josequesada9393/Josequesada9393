@@ -8,7 +8,7 @@ Full Stack Developer and former Foreign Language Teacher, bringing a unique blen
 
 * 🌍  I'm based in Southern California
 * ✉️  You can contact me at [josequesada9393@gmail.com](mailto:josequesada9393@gmail.com)
-* 🧠  I'm learning AWS!
+* 🧠  I'm learning Python!
 
 ### Skills
 
