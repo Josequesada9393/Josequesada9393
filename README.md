@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
+<a href="https://josegomezdeveloper.vercel.app">Check out my Portfolio Website</a>
+
 Full Stack Developer and former Foreign Language Teacher, bringing a unique blend of technical expertise and communication skills to create impactful and user-friendly web applications. With a passion for programming and a natural ability to connect with others, I enjoy developing clear, effective products that meet the needs of both businesses and end-users.
 
 * 🌍  I'm based in Southern California
