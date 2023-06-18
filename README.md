@@ -10,7 +10,6 @@ Full Stack Developer and former Foreign Language Teacher, bringing a unique blen
 
 
 * ✉️  You can contact me at [josequesada9393@gmail.com](mailto:josequesada9393@gmail.com)
-* 🧠  I'm learning Python!
 
 ### Skills
 
